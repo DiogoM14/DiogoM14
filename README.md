@@ -1,6 +1,7 @@
 # Diogo Martins 🚀
 <h2>Get in touch ⇣
-<br>
+
+##
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Xavi002)](https://github.com/kauemurakami)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/diogo-martins-b79b55182/)
@@ -17,7 +18,6 @@
 - 📫 How to reach me: diogomartins200214@gmail.com
 - ⚡ The best time to become better is today, don't outsource your decisions
  
-# <br> 
 <h2 align="center">Let's Code! :man_technologist: </h1>
 
 
