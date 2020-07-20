@@ -11,7 +11,7 @@
 
 ### Hi Devs! 🌟 Welcome to my profile
 
-- 🏁 I’m alaways working to be a FullStack Developer
+- 🏁 I’m always working to be a FullStack Developer
 - 🌱 I’m currently learning ReactJS, React Native and NojeJS Stack
 - 📖 I am currently studying to concretize the dream of becoming a professional Developer. I love what I do and I enjoy learning even more every day.
 - 💬 Ask me about them, open an **issue**
