@@ -9,10 +9,10 @@
 
 ### Hi Devs! 🌟 Welcome to my profile
 
-- 🏁 I’m always working to be a FullStack Developer.
+- 🏁 I’m always working to be a better Developer.
 - 🌱 I’m currently learning PERN Stack and Java OOP.
-- 📖 I am currently studying to concretize the dream of becoming a professional Developer. I love what I do and I enjoy learning even more every day.
-- 💬 Ask me about them, open an **issue**.
+- 📖 I am currently studying to fulfill my dream of becoming a professional Developer. I love what I do and I enjoy learning even more every day.
+- 💬 Ask me about any **issue**.
 - 📫 How to reach me: diogomartins200214@gmail.com.
 - ⚡ The best time to become better is today, don't outsource your decisions!
 
